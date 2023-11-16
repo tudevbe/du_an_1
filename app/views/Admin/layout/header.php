@@ -247,12 +247,6 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a href="index.php?act=qlht" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Quản lý hệ thống</p>
-                </a>
-              </li>
-              <li class="nav-item">
                 <a href="index.php?act=qlbv" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Quản lý bài viết</p>
