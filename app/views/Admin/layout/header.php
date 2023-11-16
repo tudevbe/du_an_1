@@ -206,20 +206,14 @@
 
       <!-- Sidebar Menu -->
       <nav class="mt-2">
-        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+        <ul class="nav nav-pills  flex-column" data-widget="treeview" role="menu" data-accordion="false">
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
           <li class="nav-item">
-            <a href="#" class="nav-link">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
-              <p>
-                Chức năng quản lý
-                <i class="right fas fa-angle-left"></i>
-              </p>
-            </a>
+           
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="index.php?act=qldm" class="nav-link active">
+                <a href="index.php?act=qldm" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Quản lý danh mục</p>
                 </a>

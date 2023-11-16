@@ -4,28 +4,28 @@
     
     switch ($act) {
         case 'qldm':
-            include "./layout/danhmuc.php";
+            include "./layout/danhmuc/danhmuc.php";
             break;
         case 'qlsp':
-            include "./layout/sanpham.php";
+            include "./layout/sanpham/sanpham.php";
             break;
         case 'qlnd':
-            include "./layout/user.php";
+            include "./layout/user/user.php";
             break;
         case 'qlbl':
-            include "./layout/binhluan.php";
+            include "./layout/binhluan/binhluan.php";
             break;
         case 'qlhd':
-            include "./layout/hoadon.php";
+            include "./layout/hoadon/hoadon.php";
             break;
         case 'qlht':
-            include "./layout/hethong.php";
+            include "./layout/hethong/hethong.php";
             break; 
         case 'qlbv':
-            include "./layout/baiviet.php";
+            include "./layout/baiviet/baiviet.php";
             break;  
         case 'qllh':
-            include "./layout/lienhe.php";
+            include "./layout/lienhe/lienhe.php";
             break;    
         
         default:
